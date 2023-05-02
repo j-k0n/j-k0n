@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Jake. I'm a network security administrator that is looking to shift into the development space. I'm currently working through the "Odin Project" material.
+
+You can follow my learning journey at [my hashnode blog](www.jakeconrad.dev)
+
+I'd love to hear from other folks that are learning or who just want to connect.
+
 <!--
 **j-k0n/j-k0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
