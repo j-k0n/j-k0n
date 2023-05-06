@@ -1,22 +1,10 @@
 ### Hi there 👋
 
-My name is Jake. I'm a network security administrator that is looking to shift into the development space. I'm currently working through the "Odin Project" material.
+My name is Jake. I'm a systems administrator looking to build a career in DevOps and the cloud.
 
-You can follow my learning journey at [my hashnode blog](www.jakeconrad.dev)
+I'm currently working on:
+- Getting GCP Certified
+- Hosting a website and blog on GCP
+- Learning Python and Rust
 
-I'd love to hear from other folks that are learning or who just want to connect.
-
-<!--
-**j-k0n/j-k0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'd love to hear from you about your journey in the cloud!
